@@ -30,4 +30,8 @@ MOSFETs Q1, Q2, Q3, and Q4 form the NOR gate. Q5 and Q6 do the ANDing of A and B
 
 The output of XOR gate is high only if the given two inputs are unequal. If A and B are the inputs to XOR gate then the output is high only if A is low, B is high or A is high, B is low.
 
-![XOR ](XOR%20Wave.png)
+![XOR](XOR%20Wave.png)
+
+*4. Result and Output Waveform*
+
+![XOR Synopsys](cp_lib1_XOR_schematic2.jpeg)
