@@ -21,3 +21,5 @@ A XOR gate can be implemented using 10 MOSFETs, 5 NMOS and 5 PMOS each.
 ![Truth Table](XORTT.png)
 
 From the truth table of the XOR gate, the output is high only when the two inputs are not equal thus it represents an inequality function. The above logic block diagram shows the implementation of XOR gate using 2 NOR and 1 AND gate. The same can be implemented using CMOS. 
+
+![CMOS XOR](CMOS%20XOR.png)
