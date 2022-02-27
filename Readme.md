@@ -3,9 +3,9 @@ Implementation of 2 input XOR gate using CMOS 28nm technology.
 
 # Table Of Content
 1. [Introduction](#Introduction)
-2. [CircuitDesign](#CircuitDesign)
-3. [ReferenceWaveform](#ReferenceWaveform)
-4. [ResultAndOutputWaveform](#Result and output waveform)
+2. [CircuitDesign](#Circuit Design)
+3. [ReferenceWaveform](#Reference Waveform)
+4. [Result\tAndOutputWaveform](#Result\tAndOutputWaveform)
 
 **Abstract**:- The scope of the work is to design a two input XOR gate using 28nm CMOS. Exclusive OR (XOR) gate is utilized in various digital system applications such as full adder, comparator, parity checker and controlled inverter.
 
