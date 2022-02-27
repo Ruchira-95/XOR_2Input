@@ -9,6 +9,23 @@ Implementation of 2 input XOR gate using CMOS 28nm technology.
 Keywords- XOR, CMOS
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##Introduction
 
 XOR gates have many application in digital systems. Hence it is necessary to implement these gates for their various applications. Implementing circuits using only universal gates will increase the number of gates used thus we need to use basic gates to reduce the number of gates in the circuit.
