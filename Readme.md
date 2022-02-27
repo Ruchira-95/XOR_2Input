@@ -16,6 +16,7 @@ A MOSFET has 4 terminals drain, gate, source and substrate. CMOS means Complemen
 
 A XOR gate can be implemented using 10 MOSFETs, 5 NMOS and 5 PMOS each.
 
+
 ![Logical Block Diagram of XOR Gate](Xor.png) 
 
 ![Truth Table](XORTT.png)
@@ -35,3 +36,4 @@ The output of XOR gate is high only if the given two inputs are unequal. If A an
 *4. Result and Output Waveform*
 
 ![XOR Synopsys](XORSynopsys.png)
+![Logical Block Of XOR](Logical.png)
