@@ -35,4 +35,4 @@ The output of XOR gate is high only if the given two inputs are unequal. If A an
 *4. Result and Output Waveform*
 
 ![XOR Synopsys](cp_lib1_XOR_schematic2.jpeg)
-![XOR](C:\Users\LENOVO\Pictures\XOR\cp_lib1_XOR_schematic2.jpeg)
+![XOR Synopsys](XORSynopsys.png)
