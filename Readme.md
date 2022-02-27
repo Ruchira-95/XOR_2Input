@@ -40,3 +40,5 @@ The output of XOR gate is high only if the given two inputs are unequal. If A an
 
 ![XOR Schemmatic](Schemmatic.png)
 ![XOR Output](Waveform.png)
+![Analysis](Analysis.png)
+![Transient Analysis](Transient%20Analysis.png)
