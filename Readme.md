@@ -62,23 +62,17 @@ A capacitive loasd is connected to the output pin.
 
 The input to A, B and output from Y are taken for the output waveform.
 
-![Analysis](Analysis.png)
+![Initial Analysis](InitialAnalysis.png)
 
 Transient analysis is selected.
 Start time is set to 0us.
 Step time is set to 10us.
 Stop time is set to 50us.
 
-![Transient Analysis](Transient%20Analysis.png)
+![Transient Analysis](TransientAnalysis.png)
 
 The red wave represents the input A.
 The purple wave represents the input B.
 The green wave represents the output Y.
 
-![XOR Output](Waveform.png)
-
 ![XOR Output](WaveformXOR.png)
-
-![Initial Analysis](InitialAnalysis.png)
-
-![Transient Analysis](TransientAnalysis.png)
