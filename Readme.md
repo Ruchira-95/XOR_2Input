@@ -84,5 +84,5 @@ Thus the output waveform represents the XOR output and the truth table is satisf
 
 ## Reference <a name="Reference"></a>
 
-[1] 	B. Razavi, Design of Analog CMOS Integrated Circuits, McGrwaw Hill Education India, 2017. 
+[1] 	B. Razavi, Design of Analog CMOS Integrated Circuits, McGrwaw Hill Education India, 2017.
 [2] 	Lorenzo Mari, CMOS implementation of XOR, XNOR and TG gates, 2021.
