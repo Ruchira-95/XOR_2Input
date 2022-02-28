@@ -76,3 +76,9 @@ The purple wave represents the input B.
 The green wave represents the output Y.
 
 ![XOR Output](Waveform.png)
+
+![XOR Output](WaveformXOR.png)
+
+![Initial Analysis](InitialAnalysis.png)
+
+![Transient Analysis](TransientAnalysis.png)
