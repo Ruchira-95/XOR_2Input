@@ -6,6 +6,7 @@ Implementation of 2 input XOR gate using CMOS 28nm technology.
 2. [CircuitDesign](#CircuitDesign)
 3. [ReferenceWaveform](#ReferenceWaveform)
 4. [ResultAndOutputWaveform](#ResultAndOutputWaveform)
+5. [Reference](#Reference)
 
 **Abstract**:- The scope of the work is to design a two input XOR gate using 28nm CMOS. Exclusive OR (XOR) gate is utilized in various digital system applications such as full adder, comparator, parity checker and controlled inverter.
 
@@ -76,3 +77,12 @@ The purple wave represents the input B.
 The green wave represents the output Y.
 
 ![XOR Output](WaveformXOR.png)
+
+The output wave is only high when two inputs are low and high or high and low.
+Thus the output waveform represents the XOR output and the truth table is satisfied.
+
+
+## Reference <a name="Reference"></a>
+
+[1] 	B. Razavi, Design of Analog CMOS Integrated Circuits, McGrwaw Hill Education India, 2017. 
+[2] 	Lorenzo Mari, CMOS implementation of XOR, XNOR and TG gates, 2021.
